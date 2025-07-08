@@ -1,0 +1,28 @@
+services:
+  - type: web
+    name: escort-service-backend
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: CORS_ORIGIN
+        value: https://escort-service-frontend.onrender.com
+      - key: WHATSAPP_NUMBER
+        value: +919306145339
+      - key: TELEGRAM_USERNAME
+        value: @escort_service
+      - key: PHONE_NUMBER
+        value: +919306145339
+      - key: EMAIL
+        value: contact@escortservice.com
+      - key: RATE_LIMIT_WINDOW_MS
+        value: 900000
+      - key: RATE_LIMIT_MAX_REQUESTS
+        value: 100
+      - key: LOG_LEVEL
+        value: info
