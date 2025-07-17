@@ -3,9 +3,9 @@ export default {
   tagline: "Premium Companion Services",
   description: "Experience luxury and sophistication with our carefully selected companions. Discretion and elegance guaranteed.",
   contactInfo: {
-    whatsapp: "+919306145339", // ← Updated WhatsApp number
+    whatsapp: "+91", // ← Updated WhatsApp number
     telegram: "@escort_service", // ← Updated Telegram username
-    phone: "+919306145339", // ← Updated phone number
+    phone: "+91", // ← Updated phone number
     email: "contact@escortservice.com"
   },
   heroSlides: [
