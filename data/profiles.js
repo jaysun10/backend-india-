@@ -16,9 +16,9 @@ export default [
     availability: "Evenings & Weekends",
     isPremium: true,
     contactInfo: {
-      whatsapp: "+919306145339",
+      whatsapp: "+91",
       telegram: "@sophia_companion",
-      phone: "+919306145339"
+      phone: "+91"
     }
   },
   {
@@ -37,9 +37,9 @@ export default [
     availability: "Flexible Schedule",
     isPremium: false,
     contactInfo: {
-      whatsapp: "+919306145339",
+      whatsapp: "+91",
       telegram: "@isabella_charm",
-      phone: "+919306145339"
+      phone: "+91"
     }
   },
   {
@@ -58,9 +58,9 @@ export default [
     availability: "Business Hours",
     isPremium: true,
     contactInfo: {
-      whatsapp: "+919306145339",
+      whatsapp: "+91",
       telegram: "@victoria_exec",
-      phone: "+919306145339"
+      phone: "+91"
     }
   },
   {
@@ -79,9 +79,9 @@ export default [
     availability: "Weekends & Holidays",
     isPremium: false,
     contactInfo: {
-      whatsapp: "+919306145339",
+      whatsapp: "+91",
       telegram: "@anastasia_adventure",
-      phone: "+919306145339"
+      phone: "+91"
     }
   },
   {
@@ -100,9 +100,9 @@ export default [
     availability: "By Appointment",
     isPremium: true,
     contactInfo: {
-      whatsapp: "+919306145339",
+      whatsapp: "+91",
       telegram: "@gabrielle_model",
-      phone: "+919306145339"
+      phone: "+91"
     }
   },
   {
@@ -121,9 +121,9 @@ export default [
     availability: "Evenings & Weekends",
     isPremium: false,
     contactInfo: {
-      whatsapp: "+919306145339",
+      whatsapp: "+91",
       telegram: "@natasha_artist",
-      phone: "+919306145339"
+      phone: "+91"
     }
   },
   // NEW PROFILE EXAMPLE - Add your new profiles here
@@ -144,9 +144,9 @@ export default [
     availability: "Flexible International Schedule",
     isPremium: true,
     contactInfo: {
-      whatsapp: "+919306145339",
+      whatsapp: "+91",
       telegram: "@elena_international",
-      phone: "+919306145339"
+      phone: "+91"
     }
   }
 ];
